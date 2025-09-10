@@ -64,7 +64,7 @@ h2 {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 
   /* Fixed size */
-  height: 350px;      /* adjust as needed */
+  height: 400px;      /* adjust as needed */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
