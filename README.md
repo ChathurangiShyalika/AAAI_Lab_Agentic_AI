@@ -1,86 +1,92 @@
-## [AAAI 2026] [LQ]  From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0
+# [AAAI 2026] From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0
 
 ### Introduction
-Welcome to our interactive lab session at AAAI 2026! 🎉 This lab is designed to provide participants with hands-on experience in tackling the challenges of rare event prediction in manufacturing. Through a structured approach covering data generation, preprocessing, model development, and evaluation, attendees will gain practical insights into multimodal AI modeling and its explainability.
+Welcome to our interactive lab session at **AAAI 2026**! 🎉  
+This lab focuses on **Agentic AI** in Industry 4.0, where autonomous agents must reason across multimodal data sources (sensor streams, structured knowledge graphs, maintenance logs) and operate adaptively under uncertainty.  
+
+Participants will gain **hands-on experience** with data integration, benchmarking, and evaluation of multimodal agents. The lab bridges concepts of symbolic-neural integration, agent reasoning strategies, and real-world evaluation workflows. By the end of the session, attendees will leave with the practical skills and modular tools needed to build trustworthy, explainable, and deployable **Agentic AI systems**.
+
+---
 
 ### Lab Schedule
 
-#### **Part 1 - Introduction and Overview**
-- Overview of rare event prediction and anomaly prediction in smart manufacturing.
-- Discussion of objectives and expected takeaways from the lab.
+#### **Part 1 – Introduction and Overview**
+- Multimodal AI agents in Industry 4.0.
+- Use cases and journey from inception to productization.
+- Tutorial structure and objectives.
 
-#### **Part 2 - Exploring Datasets for Rare Event Analysis**
-- Overview of publicly available datasets for rare event prediction.
-- Deep dive into manufacturing-specific datasets (Pulp-and-paper manufacturing and Future Factories (FF) datasets) and its role in rare event prediction.
+#### **Part 2 – Architectures for Multimodal Agents**
+- Overview of agent designs (Plan-Execute, ReAct, Reflexion, RAFA).
+- Hybrid symbolic + neural integration for interoperability and explainability.
 
-#### **Part 3 - Addressing Data Scarcity and Improving Data Quality**
-- Hands-on session on using data augmentation techniques and modeling approaches to improve rare event prediction.
+#### **Part 3 – Lab Session 1: Addressing Data Silos**
+- Hands-on session on multimodal data integration in hybrid multi-agent systems.
+- Techniques for handling fragmented data and modality alignment.
 
-#### **Part 4 - Model Selection, Development, and Evaluation**
-- Hands-on session with anomaly prediction using robust modeling techniques, including dependency capture between rare events.
+#### **Part 4 – Governance and Operationalization**
+- Best practices for deploying multimodal agents in real-world Industry 4.0.
+- Governance, monitoring, observability, and traceability techniques.
 
-#### **Part 5 - Development and Use of Process Ontology**
-- Introduction to process ontology for rare event prediction.
-- Hands-on session on using process ontology for generating user-level explanations.
+#### **Part 5 – Lab Session 2: Evaluation Benchmarking**
+- Hands-on session with **AssetOpsBench** and **SmartPilot**.
+- Evaluation with human feedback, sensor-grounded metrics, and LLM-as-a-judge.
 
-#### **Summary and Q/A**
-- Recap of the session and open discussion with participants.
+#### **Summary and Q&A**
+- Wrap-up and open discussion with participants.
 
 ---
 
 ### **Prerequisites**
-Participants are expected to have a basic understanding of:
-- AI and Machine Learning concepts.
-- Python programming and familiarity with libraries such as PyTorch, TensorFlow, and Scikit-learn.
-- Basic knowledge of data processing techniques.
-
-### **Resources**
-- <a href="https://shorturl.at/pPPLn" target="_blank">Presentation slides</a>
-- <a href="https://shorturl.at/Jrpfc" target="_blank">Additional reading materials</a>
-- <a href="https://shorturl.at/5GwyO" target="_blank">Datasets used in this lab</a>
-
+Participants should have:
+- Basic understanding of AI/ML concepts.
+- Familiarity with Python programming and libraries (PyTorch, TensorFlow, Scikit-learn).
+- Interest in multimodal data, intelligent agents, and Industry 4.0.
 
 ---
 
-### **FAQs**
-**Q1: Do I need prior experience with rare event prediction or multimodal AI?**  
-*A: While prior experience is beneficial, it is not mandatory. The lab is structured to guide participants through key concepts and hands-on exercises.*
+### **Resources**
+- [Slides](https://shorturl.at/s7QKA)  
+- [AssetOpsBench dataset on Hugging Face](https://huggingface.co/datasets/ibm-research/AssetOpsBench)  
+- [SmartPilot CoPilot System](https://github.com/ChathurangiShyalika/SmartPilot)  
+- [FailureSensorIQ dataset](https://github.com/IBM/FailureSensorIQ)  
 
 ---
 
 ### **Contributors**
-- **[Chathurangi Shyalika](https://www.linkedin.com/in/chathurangi-shyalika-1b89229b/)** (University of South Carolina)
-- **[Ruwan Wickramarachchi](https://ruwantw.github.io/)** (University of South Carolina)
-- **[Revathy Venkataramanan](https://www.linkedin.com/in/revathy-venkataramanan/)** (University of South Carolina)
-- **[Dhaval Patel](https://www.linkedin.com/in/dhaval-patel-2b287033/)** (IBM Research)
-- **[Amit Sheth](https://amit.aiisc.ai/)** (University of South Carolina)
+- **[Chathurangi Shyalika](https://www.linkedin.com/in/chathurangi-shyalika-1b89229b/)** (University of South Carolina)  
+- **[Saumya Ahuja](https://www.linkedin.com/in/saumyahuja/)** (IBM, WatsonX ASEAN)  
+- **[Shuxin Lin](https://www.linkedin.com/in/shuxin-lin/)** (IBM Research)  
+- **[Ruwan Wickramarachchi](https://ruwantw.github.io/)** (Bosch Center for AI)  
+- **[Dhaval Patel](https://www.linkedin.com/in/dhaval-patel-2b287033/)** (IBM Research)  
+- **[Amit Sheth](https://amit.aiisc.ai/)** (University of South Carolina)  
 
 ---
 
-### **Contact Information**
-For any questions or feedback, please reach out to:  
+### **Contact**
 📎 **Chathurangi Shyalika**: [jayakodc@email.sc.edu](mailto:jayakodc@email.sc.edu)  
+📎 **Saumya Ahuja**: [saumya.ahuja@ibm.com](mailto:saumya.ahuja@ibm.com)  
+📎 **Shuxin Lin**: [shuxin.lin@ibm.com](mailto:shuxin.lin@ibm.com)  
 📎 **Ruwan Wickramarachchi**: [ruwan@email.sc.edu](mailto:ruwan@email.sc.edu)  
-📎 **Revathy Venkataramanan**: [revathy@email.sc.edu](mailto:revathy@email.sc.edu)  
 📎 **Dhaval Patel**: [pateldha@us.ibm.com](mailto:pateldha@us.ibm.com)  
 📎 **Amit Sheth**: [amit@sc.edu](mailto:amit@sc.edu)  
 
 ---
 
-### **Contributing to the Lab**
-We encourage contributions and feedback to improve the lab and its materials.
+### **Contributing**
+We welcome contributions and feedback to improve the lab and its materials. Please open an issue or PR in this repository.
 
 ---
 
 ### **Citation**
-If you wish to cite this lab, please use the following format:
+If you use materials from this lab, please cite as:
 
-**Chathurangi Shyalika, Ruwan Wickramarachchi, Revathy Venkataramanan, Dhaval Patel, & Amit Sheth** (2025, February). *Developing Explainable Multimodal AI Models: A Lab on the Lifecycle of Rare Event Prediction in Manufacturing*. In AAAI Conference on Artificial Intelligence.
+**Chathurangi Shyalika, Saumya Ahuja, Shuxin Lin, Ruwan Wickramarachchi, Dhaval Patel, & Amit Sheth** (2026, January).  
+*From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0*. In AAAI Conference on Artificial Intelligence.
 
 ```bibtex
-@article{shyalika2025lab,
-  title={Developing Explainable Multimodal AI Models: A Lab on the Lifecycle of Rare Event Prediction in Manufacturing},
-  author={Shyalika, Chathurangi and Wickramarachchi, Ruwan and Venkataramanan, Revathy and Patel, Dhaval and Sheth, Amit},
+@inproceedings{shyalika2026lab,
+  title={From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0},
+  author={Shyalika, Chathurangi and Ahuja, Saumya and Lin, Shuxin and Wickramarachchi, Ruwan and Patel, Dhaval and Sheth, Amit},
   booktitle={AAAI Conference on Artificial Intelligence},
-  year={2025}
+  year={2026}
 }
