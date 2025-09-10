@@ -84,7 +84,7 @@ If you use materials from this lab, please cite as:
 *From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0*. In AAAI Conference on Artificial Intelligence.
 
 ```bibtex
-@inproceedings{shyalika2026lab,
+@inproceedings{agenticai2026lab,
   title={From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0},
   author={Shyalika, Chathurangi and Ahuja, Saumya and Lin, Shuxin and Wickramarachchi, Ruwan and Patel, Dhaval and Sheth, Amit},
   booktitle={AAAI Conference on Artificial Intelligence},
