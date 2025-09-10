@@ -1,7 +1,7 @@
-## [AAAI 2025] [LQ03] Developing explainable multimodal AI models with hands-on lab on the life-cycle of rare event prediction in manufacturing
+## [AAAI 2026] [LQ]  From Inception to Productization: Hands-on Lab for the Lifecycle of Multimodal Agentic AI in Industry 4.0
 
 ### Introduction
-Welcome to our interactive lab session at AAAI 2025! 🎉 This lab is designed to provide participants with hands-on experience in tackling the challenges of rare event prediction in manufacturing. Through a structured approach covering data generation, preprocessing, model development, and evaluation, attendees will gain practical insights into multimodal AI modeling and its explainability.
+Welcome to our interactive lab session at AAAI 2026! 🎉 This lab is designed to provide participants with hands-on experience in tackling the challenges of rare event prediction in manufacturing. Through a structured approach covering data generation, preprocessing, model development, and evaluation, attendees will gain practical insights into multimodal AI modeling and its explainability.
 
 ### Lab Schedule
 
